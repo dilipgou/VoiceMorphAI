@@ -10,7 +10,8 @@ VoiceMorphAI combines generative AI, deep learning, and audio synthesis to conve
 **Try it live (no login needed):**  
 🌐 Gradio link : https://33033413572f1d0fc5.gradio.live
 
-<img width="919" height="470" alt="Screenshot 2025-11-04 192741" src="https://github.com/user-attachments/assets/c5b702ea-322b-465f-aa5c-64f88e663bbc" />
+<img width="1919" height="681" alt="Screenshot 2025-11-04 192402" src="https://github.com/user-attachments/assets/99a50481-c707-422e-aa70-8818dbfe300f" />
+
 
 
 ---
@@ -80,8 +81,6 @@ VoiceMorphAI/
 ## 🔧 Installation & Usage
 
 # Clone this repository
-git clone https://github.com/dilipgou/VoiceMorphAI.git
-cd VoiceMorphAI
 
 # Install dependencies
 pip install -r requirements.txt
