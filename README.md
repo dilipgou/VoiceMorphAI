@@ -1,8 +1,3 @@
-# VoiceMorphAI – Diffusion Voice Conversion
-
-Diffusion-based speech style transfer project using AudioLDM2 and Gradio.
-Upload a voice, describe a new style (e.g. "robotic whisper"), and generate the converted voice in seconds.
-
 # 🎙️ VoiceMorphAI — Diffusion-Based Voice Conversion 🎵
 
 Transform *any voice* into a new style using cutting-edge **AudioLDM2 diffusion models**.  
